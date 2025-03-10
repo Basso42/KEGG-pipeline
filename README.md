@@ -1,4 +1,4 @@
-# KEGG-pipeline
+# KEGG-web-scraping
 
 This repository contains a Python-based web scraping tool that extracts Kegg Orthologs from the [KEGG](https://www.kegg.jp/) (Kyoto Encyclopedia of Genes and Genomes) database. Check out the `environment.yml` file to manage dependencies.
 
