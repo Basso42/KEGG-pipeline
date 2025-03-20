@@ -27,8 +27,8 @@ Clone the repository:
 
 
 ```bash
-git clone https://github.com/yourusername/kegg-protein-scraper.git
-cd kegg-protein-scraper
+git clone https://github.com/basso42/kegg-web-scraping.git
+cd kegg-web-scraping
 ```
 
 ## Project structure
